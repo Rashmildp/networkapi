@@ -1,0 +1,21 @@
+{
+  "network": [
+    {
+      "id": 1,
+      "network": "Default",
+      "subNetwork": "Default",
+      "networkIP": "10.128.0.6",
+      "machineType": "ni-standard-1",
+      "keyName": "sinwind",
+      "availabilityZone": "us-central1-c",
+      "creationTime": "2020 Oct 11, 1:16PM",
+      "lastStartTimestamp": "2020 Oct 11, 1:16PM",
+      "lastStopTimestamp": "2020 Oct 11, 1:16PM",
+      "runInstance": "daily",
+      "startDate": "2021-10-09",
+      "startTime": "09:10",
+      "endDate": "2021-10-09",
+      "EndTime": "09:10"
+    }
+  ]
+}
